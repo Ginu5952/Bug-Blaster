@@ -1,4 +1,4 @@
-import { type } from "@testing-library/user-event/dist/type";
+
 import React, { useState, useEffect } from "react";
 
 export default function TicketForm({ dispatch, editingTicket }) {
